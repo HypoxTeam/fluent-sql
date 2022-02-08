@@ -1,0 +1,4 @@
+rootProject.name = "fluent-sql"
+
+include("core")
+
